@@ -124,10 +124,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Useful Links
 
 ### Project Links
-[![GitHub Repository](https://img.shields.io/badge/Source%20Code-View%20Here-blue?style=for-the-badge)](https://github.com/your-repo)
+[![GitHub Repository](https://img.shields.io/badge/Source%20Code-View%20Here-blue?style=for-the-badge)](https://github.com/AKdevi99/LoanGuru)
 
 ### Contact
-[![Contact Us](https://img.shields.io/badge/Contact-Email-red?style=for-the-badge)](mailto:your-email@example.com)
+[![Contact Us](https://img.shields.io/badge/Contact-Email-red?style=for-the-badge)](mailto:aditya.rpsk@gmail.com)
 
 ---
 
