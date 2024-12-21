@@ -105,6 +105,13 @@ src/
 ```
 
 ---
+⚠️ Disclaimer
+
+This project is a learning-oriented demonstration designed to simulate the process of calculating credit scores and assessing loan eligibility. While it mimics real-world functionalities, the results are not based on actual financial data and are intended solely for educational purposes.
+
+Our goal with this project was to enhance our knowledge of financial systems and gain practical experience in building full-stack applications. It reflects our dedication to learning and experimenting with modern web technologies in a meaningful context.
+
+---
 
 ## 🎨 Contributors
 
