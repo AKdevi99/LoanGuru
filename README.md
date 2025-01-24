@@ -67,7 +67,7 @@ Banks and **financial institutions** face challenges in accurately evaluating cu
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/Akdevi99.git
    cd your-repo
    ```
 
